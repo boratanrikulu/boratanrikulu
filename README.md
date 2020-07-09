@@ -1,16 +1,16 @@
-### Hi there 👋
+### Me.
 
-<!--
-**boratanrikulu/boratanrikulu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hey. It’s Bora.  
+A software developer.  
 
-Here are some ideas to get you started:
+Senior year at Pamukkale University with Computer Engineering major.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Experienced in Linux System Administration, Shell Scripting, Ruby/Rails.  
+Looking forward to improve my capabilities in Golang and Devops.
+
+- [My Blog](https://boratanrikulu.dev/blog)
+- [My Journey](https://boratanrikulu.dev/journey)
+- [Resume](https://boratanrikulu.dev/resume.pdf)
+
+Feel free to contact me at: [boratanrikulu@gmail.com](mailto:boratanrikulu@gmail.com)  
+or see [contact](https://boratanrikulu.dev/contact) page for more options.
