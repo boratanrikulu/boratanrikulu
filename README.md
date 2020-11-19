@@ -4,7 +4,7 @@ Hey. It’s Bora.
 A software developer.  
 
 Senior year at Pamukkale University with Computer Engineering major.  
-Working at Zeo Agency as an Intern Backend Developer.
+Working at Zeo Agency as Backend Developer.
 
 Experienced in Linux System Administration, Shell Scripting, Ruby/Rails.  
 Looking forward to improve my capabilities in Golang and Devops.
