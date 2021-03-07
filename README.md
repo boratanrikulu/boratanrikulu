@@ -3,15 +3,14 @@
 Hey. It’s Bora.  
 A software developer.  
 
-Senior year at Pamukkale University with Computer Engineering major.  
-Working at Zeo Agency as Backend Developer.
+Interested in Backend technologies and DevOps. Has
+experience on developing APIs, bulding pipelines, containerizing
+applications, monitoring servers. Uses Go as daily, feels like a gopher.  
+Senior year at Pamukkale University with Computer Engineering major.
 
-Experienced in Linux System Administration, Shell Scripting and Golang.  
-Looking forward to improve my capabilities in Devops and Cloud native technologies.
-
-- [My Blog](https://boratanrikulu.dev/blog)
-- [My Journey](https://boratanrikulu.dev/journey)
-- [Resume](https://boratanrikulu.dev/resume.pdf)
+- [Blog](https://bora.sh/blog)
+- [Journey](https://bora.sh/journey)
+- [Resume](https://bora.sh/resume.pdf)
 
 Feel free to contact me at: [boratanrikulu@gmail.com](mailto:boratanrikulu@gmail.com)  
-or see [contact](https://boratanrikulu.dev/contact) page for more options.
+or see [contact](https://bora.sh/contact) page for more options.
