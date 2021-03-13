@@ -4,7 +4,7 @@ Hey. It’s Bora.
 A software developer.  
 
 Interested in backend technologies and DevOps.  
-Has experience on developing APIs, bulding pipelines, containerizing  
+Has experience in developing APIs, building pipelines, containerizing  
 applications, monitoring servers. Uses Go as daily, feels like a gopher.  
 Senior year at Pamukkale University with Computer Engineering major.
 
