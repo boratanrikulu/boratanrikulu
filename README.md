@@ -6,7 +6,7 @@ A software developer.
 Interested in backend technologies and DevOps.  
 Has experience in developing APIs, building pipelines, containerizing  
 applications, monitoring servers. Uses Go as daily, feels like a gopher.  
-Software Developer at Acronis.
+Software Developer at [Acronis](https://acronis.com).
 
 - [Blog](https://bora.sh/blog)
 - [Journey](https://bora.sh/journey)
