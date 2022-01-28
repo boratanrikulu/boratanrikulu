@@ -12,5 +12,5 @@ Software Developer at [Acronis](https://acronis.com).
 - [Journey](https://bora.sh/journey)
 - [Resume](https://bora.sh/resume.pdf)
 
-Feel free to contact me at: [boratanrikulu@gmail.com](mailto:boratanrikulu@gmail.com)  
+Feel free to contact me at: [me@bora.sh](mailto:me@bora.sh)  
 or see [contact](https://bora.sh/contact) page for more options.
