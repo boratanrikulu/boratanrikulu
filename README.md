@@ -1,11 +1,10 @@
 ### Me.
 
 Hey. It’s Bora.  
-A software developer.  
+A software engineer.  
 
-Interested in backend technologies and DevOps.  
-Has experience in developing APIs, building pipelines, containerizing  
-applications, monitoring servers. Uses Go as daily, feels like a gopher.  
+A person who loves to build simple solutions. Has experience on  
+building and maintaining services. Uses Go daily, feels like a gopher.
 
 - [Blog](https://bora.sh/blog)
 - [Journey](https://bora.sh/journey)
