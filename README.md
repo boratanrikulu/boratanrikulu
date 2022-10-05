@@ -10,5 +10,6 @@ building and maintaining services. Uses Go daily, feels like a gopher.
 - [Journey](https://bora.sh/journey)
 - [Resume](https://bora.sh/resume.pdf)
 
-Feel free to contact me at: [me@bora.sh](mailto:me@bora.sh)  
-or see [contact](https://bora.sh/contact) page for more options.
+Feel free to contact me at: [me@bora.sh](mailto:me@bora.sh).  
+
+![..](https://user-images.githubusercontent.com/20258973/194073521-08c8df5d-aede-4dbc-b29b-618ea4e931f5.gif "Jupiter")
