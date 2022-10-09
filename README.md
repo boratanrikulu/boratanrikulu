@@ -12,4 +12,4 @@ building and maintaining services. Uses Go daily, feels like a gopher.
 
 Feel free to contact me at: [me@bora.sh](mailto:me@bora.sh).  
 
-![..](https://user-images.githubusercontent.com/20258973/194073521-08c8df5d-aede-4dbc-b29b-618ea4e931f5.gif "Jupiter")
+![..](https://user-images.githubusercontent.com/20258973/194757018-94c5f2b3-5e61-46e7-a4ef-69cfacdd9244.gif "Jupiter")
