@@ -1,5 +1,7 @@
 ### Me.
 
+<img align="right" src="https://user-images.githubusercontent.com/20258973/194757018-94c5f2b3-5e61-46e7-a4ef-69cfacdd9244.gif" alt="Jupiter">
+
 Hey. It’s Bora.  
 A software engineer.  
 
@@ -12,4 +14,21 @@ building and maintaining services. Uses Go daily, feels like a gopher.
 
 Feel free to contact me at: [me@bora.sh](mailto:me@bora.sh).  
 
-![..](https://user-images.githubusercontent.com/20258973/194757018-94c5f2b3-5e61-46e7-a4ef-69cfacdd9244.gif "Jupiter")
+#### Projects
+
+- [**Durdur**](https://github.com/boratanrikulu/durdur)  
+  **Status:** Under development.  
+  eBPF-powered L4 package dropper. 
+- [**GitNotif.com**](https://gitnotif.com)  
+  **Status**: Early ages, soon.  
+  Notification Layer of GitHub!  
+- [**Eternity**](https://github.com/boratanrikulu/eternity)  
+  **Status**: Released, maintaining.  
+  A minimalist Hugo theme designed for portfolio sites. 
+- [**Quik.do**](https://quik.do)  
+  **Status**: Freezed.  
+  The simplest video conferencing/streaming app. 
+- [**Lirik.app**](https://lirik.app)  
+  **Status**: Freezed.  
+  An app shows lyrics and translations for currently playing song in your
+Spotify account.    
