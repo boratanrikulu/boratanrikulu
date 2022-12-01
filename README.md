@@ -2,15 +2,13 @@
 
 <img align="right" src="https://user-images.githubusercontent.com/20258973/194757018-94c5f2b3-5e61-46e7-a4ef-69cfacdd9244.gif" alt="Jupiter">
 
-Hey. It’s Bora.  
-A software engineer.  
+Hey.
 
-A person who loves to build simple solutions. Has experience on  
-building and maintaining services. Uses Go daily, feels like a gopher.
+I’m a person who loves to create simple solutions.
+I have experience in building and maintaining services. I live in Izmir, a lovely city based in Turkey.
 
-- [Blog](https://bora.sh/blog)
-- [Journey](https://bora.sh/journey)
-- [Resume](https://bora.sh/resume.pdf)
+Check [bora.sh](https://bora.sh), to find out the data I’d like to share publicly.  
+Enjoy exploring.
 
 Feel free to contact me at: [me@bora.sh](mailto:me@bora.sh).  
 
@@ -26,9 +24,9 @@ Feel free to contact me at: [me@bora.sh](mailto:me@bora.sh).
   **Status**: Released, maintaining.  
   A minimalist Hugo theme designed for portfolio sites. 
 - [**Quik.do**](https://quik.do)  
-  **Status**: Freezed.  
+  **Status**: Up, freezed.  
   The simplest video conferencing/streaming app. 
 - [**Lirik.app**](https://lirik.app)  
-  **Status**: Freezed.  
+  **Status**: Up, freezed.  
   An app shows lyrics and translations for currently playing song in your
 Spotify account.    
