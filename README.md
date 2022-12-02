@@ -4,8 +4,9 @@
 
 Hey.
 
-I’m a person who loves to create simple solutions.
-I have experience in building and maintaining services. I live in Izmir, a lovely city based in Turkey.
+I’m a person who loves to create simple solutions.  
+I have experience in building and maintaining services.  
+I live in Izmir, a lovely city based in Turkey.
 
 Check [bora.sh](https://bora.sh), to find out the data I’d like to share publicly.  
 Enjoy exploring.
