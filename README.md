@@ -1,8 +1,6 @@
-### Me.
+### Hey.
 
 <img align="right" src="https://user-images.githubusercontent.com/20258973/194757018-94c5f2b3-5e61-46e7-a4ef-69cfacdd9244.gif" alt="Jupiter">
-
-Hey.
 
 I’m a person who loves to create simple solutions.  
 I have experience in building and maintaining services.  
@@ -15,19 +13,18 @@ Feel free to contact me at: [me@bora.sh](mailto:me@bora.sh).
 
 #### Projects
 
-- [**Durdur**](https://github.com/boratanrikulu/durdur)  
-  **Status:** Under development.  
-  eBPF-powered L4 package dropper. 
-- [**GitNotif**](https://gitnotif.com)  
-  **Status**: Early ages, soon.  
-  Notification Layer of GitHub!  
-- [**Eternity**](https://github.com/boratanrikulu/eternity)  
-  **Status**: Released, maintaining.  
-  A minimalist Hugo theme designed for portfolio sites. 
-- [**Quik.do**](https://quik.do)  
-  **Status**: Up, freezed.  
-  The simplest video conferencing/streaming app. 
-- [**Lirik.app**](https://lirik.app)  
-  **Status**: Up, freezed.  
-  An app shows lyrics and translations for currently playing song in your
-Spotify account.    
+[**Durdur**](https://github.com/boratanrikulu/durdur)  
+CLI tool for Linux implementing L4 package dropping with eBPF/Go (proof of concept).
+
+[**Quik.do**](https://github.com/boratanrikulu/quik.do)  
+Self-hosted video conferencing over WebRTC in Go. Works on Pion, Fiber and FastHTTP.
+
+[**Lirik.app**](https://github.com/boratanrikulu/lirik.app)  
+Lyrics and translations for currently playing song in your Spotify account.
+
+[**Eternity**](https://github.com/boratanrikulu/eternity)  
+Minimalist Hugo theme designed for portfolio sites. 
+
+**Soon**:  
+[**GitNotif**](https://gitnotif.com)  
+Notification Layer of GitHub!     
