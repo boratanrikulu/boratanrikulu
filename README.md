@@ -1,6 +1,6 @@
-## Hey.
-
 <img align="right" src="https://user-images.githubusercontent.com/20258973/194757018-94c5f2b3-5e61-46e7-a4ef-69cfacdd9244.gif" alt="Jupiter">
+
+## Hey.
 
 I’m a person who loves to create simple solutions.  
 I have experience in building and maintaining services.  
