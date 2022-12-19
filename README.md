@@ -18,7 +18,7 @@ Feel free to contact me at: [me@bora.sh](mailto:me@bora.sh).
 - [**Durdur**](https://github.com/boratanrikulu/durdur)  
   **Status:** Under development.  
   eBPF-powered L4 package dropper. 
-- [**GitNotif.com**](https://gitnotif.com)  
+- [**GitNotif**](https://gitnotif.com)  
   **Status**: Early ages, soon.  
   Notification Layer of GitHub!  
 - [**Eternity**](https://github.com/boratanrikulu/eternity)  
