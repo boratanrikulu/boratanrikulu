@@ -7,8 +7,6 @@ I have experience in building and maintaining services.
 I live in Izmir, a lovely city based in Turkey. TA3BOR, 73.
 
 Check [bora.sh](https://bora.sh), to find out the data I’d like to share publicly.  
-Enjoy exploring.
-
 Feel free to contact me at: [me@bora.sh](mailto:me@bora.sh).  
 
 ### Current projects in progress;
