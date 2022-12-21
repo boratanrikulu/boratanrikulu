@@ -2,7 +2,7 @@
 
 ## Hey.
 
-I’m a person who loves to create simple solutions.  
+I’m a software engineer who loves to create simple solutions.  
 I have experience in building and maintaining services.  
 I live in Izmir, a lovely city based in Turkey. TA3BOR, 73.
 
