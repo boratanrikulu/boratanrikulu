@@ -12,7 +12,7 @@ Feel free to contact me at: [me@bora.sh](mailto:me@bora.sh).
 ### Current projects in progress;
 
 [**Durdur**](https://github.com/boratanrikulu/durdur)  
-CLI tool for Linux implementing L4 package dropping with eBPF/Go (proof of concept).
+CLI tool for Linux implementing L4 packet dropping with eBPF/Go (proof of concept).
 
 [**GitNotif**](https://gitnotif.com)  
 Notification Layer of GitHub!     
