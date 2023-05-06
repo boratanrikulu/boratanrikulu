@@ -2,4 +2,5 @@
 
 Hey there,
 
-Feel free to take a look around my site [bora.sh](https://bora.sh) to learn more about me. If you have any questions or want to connect, don't hesitate to send me an email at [me@bora.sh](mailto:me@bora.sh).
+Feel free to take a look around my site [bora.sh](https://bora.sh) to learn more about me.  
+If you have any questions or want to connect, don't hesitate to send me an email at [me@bora.sh](mailto:me@bora.sh).
