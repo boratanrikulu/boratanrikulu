@@ -2,9 +2,10 @@
 
 ## Hey.
 
-I’m a software engineer who loves to create simple solutions.  
-I have experience in building and maintaining services.  
-I live in Izmir, a lovely city based in Turkey. TA3BOR, 73.
+I am a software engineer living in Izmir, a beautiful city in Turkey.  With a passion for creating simple and effective solutions, I enjoy building open-source projects. Currently, I am developing an observability and monitoring tool at [Sematext](https://sematext.com).
 
-Check [bora.sh](https://bora.sh), to find out the data I’d like to share publicly.  
-Feel free to contact me at: [me@bora.sh](mailto:me@bora.sh).  
+My technical interests include Go, Observability, Networking, Kubernetes, and eBPF. I enjoy learning about new technologies and staying up-to-date with the latest industry trends.
+
+Outside of software engineering, I am fascinated by archaeology, history, and philosophy. I love exploring different cultures and discovering the stories that shape our world.
+
+Feel free to take a look around my site [bora.sh](https://bora.sh) to learn more about me. If you have any questions or want to connect, don't hesitate to send me an email at [me@bora.sh](mailto:me@bora.sh).
