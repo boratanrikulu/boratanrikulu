@@ -2,9 +2,9 @@
 
 Hey there,
 
-I am a software engineer living in Izmir, a beautiful city in Turkey.  
+I am a software engineer living in Izmir, a beautiful city in Turkiye.  
 With a passion for creating simple and effective solutions, I enjoy building open-source projects.  
-Currently, I am developing an observability and monitoring tool at [Sematext](https://sematext.com).
+Currently, I am developing an observability and monitoring agent at [Sematext](https://sematext.com).
 
 Feel free to take a look around my site [bora.sh](https://bora.sh) to learn more about me.  
 If you have any questions or want to connect, don't hesitate to send me an email at [me@bora.sh](mailto:me@bora.sh).
