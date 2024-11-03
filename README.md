@@ -2,9 +2,9 @@
 
 Hey there,
 
-I am a software engineer living in Izmir, a beautiful city in Turkiye.  
-I have a passion for creating simple and effective solutions and enjoy working on open-source projects.  
-Currently, I am developing an observability and monitoring agent at [Sematext](https://sematext.com).
+I’m Bora Tanrikulu, a software engineer based in Izmir, Turkey.  
+Currently working at [Sematext](https://sematext.com), where I focus on building observability and monitoring tools.  
+My work centers on developing the Sematext Agent, a tool designed to collect and monitor data across systems. I specialize in Go, with a strong interest in Linux, Networking, Kubernetes, and eBPF, and I’m always exploring new technologies to bring fresh, innovative approaches to my projects.
 
-Feel free to take a look around my site [bora.sh](https://bora.sh) to learn more about me.  
-If you have any questions or want to connect, don't hesitate to send me an email at [me@bora.sh](mailto:me@bora.sh).
+Feel free to explore my site [bora.sh](https://bora.sh) to learn more about me.  
+If you have any questions or want to connect, don’t hesitate to reach out at [me@bora.sh](mailto:me@bora.sh).
