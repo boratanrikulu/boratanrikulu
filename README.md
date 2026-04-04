@@ -2,9 +2,17 @@
 
 Hey there,
 
-I’m Bora, a software engineer based in Izmir, Turkey.  
-Currently working at [Sematext](https://sematext.com), where I focus on building observability and monitoring tools.  
-My work centers on developing the Sematext Agent, a tool designed to collect and monitor data across systems. I specialize in Go, with a strong interest in Linux, Networking, Kubernetes, and eBPF, and I’m always exploring new technologies to bring fresh, innovative approaches to my projects.
+I'm Bora, a systems engineer based in Izmir, Turkey.
+Currently working at [Sematext](https://sematext.com) on 
+observability tooling in Go — building a monitoring agent 
+that collects metrics, logs, and traces across Linux and 
+Windows, using eBPF and OpenTelemetry.
 
-Feel free to explore my site [bora.sh](https://bora.sh) to learn more about me.  
-If you have any questions or want to connect, don’t hesitate to reach out at [me@bora.sh](mailto:me@bora.sh).
+On the open source side, I've built 
+[durdur](https://github.com/boratanrikulu/durdur) (eBPF 
+packet filtering) and 
+[quik](https://github.com/boratanrikulu/quik) (WebRTC video 
+conferencing), with more coming soon.
+
+Feel free to explore [bora.sh](https://bora.sh) to learn 
+more, or reach out at [me@bora.sh](mailto:me@bora.sh).
