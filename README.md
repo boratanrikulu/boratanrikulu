@@ -3,16 +3,20 @@
 Hey there,
 
 I'm Bora, a systems engineer based in Izmir, Turkey.
-Currently working at [Sematext](https://sematext.com) on 
-observability tooling in Go — building a monitoring agent 
-that collects metrics, logs, and traces across Linux and 
+Currently working at [Sematext](https://sematext.com) on
+observability tooling in Go - building a monitoring agent
+that collects metrics, logs, and traces across Linux and
 Windows, using eBPF and OpenTelemetry.
 
-On the open source side, I've built 
-[durdur](https://github.com/boratanrikulu/durdur) (eBPF 
-packet filtering) and 
-[quik](https://github.com/boratanrikulu/quik) (WebRTC video 
-conferencing), with more coming soon.
+On the open source side, I've built
+[gecit](https://github.com/boratanrikulu/gecit) (DPI bypass
+using eBPF on Linux, TUN on macOS/Windows),
+[bpfvet](https://github.com/boratanrikulu/bpfvet) (static
+analyzer for BPF object files),
+[durdur](https://github.com/boratanrikulu/durdur) (eBPF
+packet filtering), and
+[quik](https://github.com/boratanrikulu/quik) (WebRTC video
+conferencing). See all on [Projects](https://bora.sh/projects/).
 
-Feel free to explore [bora.sh](https://bora.sh) to learn 
+Feel free to explore [bora.sh](https://bora.sh) to learn
 more, or reach out at [me@bora.sh](mailto:me@bora.sh).
