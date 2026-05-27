@@ -8,15 +8,7 @@ observability tooling in Go - building a monitoring agent
 that collects metrics, logs, and traces across Linux and
 Windows, using eBPF and OpenTelemetry.
 
-On the open source side, I've built
-[gecit](https://github.com/boratanrikulu/gecit) (DPI bypass
-using eBPF on Linux, TUN on macOS/Windows),
-[bpfvet](https://github.com/boratanrikulu/bpfvet) (static
-analyzer for BPF object files),
-[durdur](https://github.com/boratanrikulu/durdur) (eBPF
-packet filtering), and
-[quik](https://github.com/boratanrikulu/quik) (WebRTC video
-conferencing). See all on [Projects](https://bora.sh/projects/).
+On the open source side, I've built [gecit](https://github.com/boratanrikulu/gecit) (DPI bypass using eBPF on Linux, TUN on macOS/Windows), [gobee](https://github.com/boratanrikulu/gobee) (write BPF programs in Go, not C), and [bpfvet](https://github.com/boratanrikulu/bpfvet) (static analyzer for BPF object files). See all on [Projects]([/projects/](https://bora.sh/projects/)).
 
 Feel free to explore [bora.sh](https://bora.sh) to learn
 more, or reach out at [me@bora.sh](mailto:me@bora.sh).
